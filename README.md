@@ -4,7 +4,7 @@
 # Connect with me:
 [<img align="left" alt="estebanmc1753 | GMail" width="35px" src="https://i.imgur.com/YQSSJe5.png" />][gmail]
 [<img align="left" alt="estebanmc1753 | Instagram" width="35px" src="https://i.imgur.com/nl4qNj5.png" />][instagram]
-[<img align="left" alt="estebanmc1753 | LinkedIn" width="55px" src="https://i.imgur.com/Vahbdkj.png" />][linkedin]
+[<img align="left" alt="estebanmc1753 | LinkedIn" width="55px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 [gmail]: mailto:estebanmc1753@gmail.com?Subject=Contacto
 [instagram]: https://www.instagram.com/estebanmc1753/
