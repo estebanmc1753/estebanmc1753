@@ -4,8 +4,8 @@
 # Connect with me:
 [<img align="left" alt="estebanmc1753 | GMail" width="35px" src="https://i.imgur.com/YQSSJe5.png" />][gmail]
 [<img align="left" alt="estebanmc1753 | Instagram" width="35px" src="https://i.imgur.com/nl4qNj5.png" />][instagram]
-[<img align="left" alt="estebanmc1753 | LinkedIn" width="35px" src="https://i.imgur.com/Vahbdkj.png" />][linkedin]
+[<img align="left" alt="estebanmc1753 | LinkedIn" width="55px" src="https://i.imgur.com/Vahbdkj.png" />][linkedin]
 
 [gmail]: mailto:estebanmc1753@gmail.com?Subject=Contacto
-[instagram]: https://www.instagram.com/cristiankema/
+[instagram]: https://www.instagram.com/estebanmc1753/
 [linkedin]: https://www.linkedin.com/in/estebanmc1753/
